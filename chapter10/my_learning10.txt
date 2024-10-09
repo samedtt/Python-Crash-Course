@@ -1,0 +1,3 @@
+In Python you can use files to store the data.
+In Python you can use classes to represent real-world objects.
+In Python you can use loops to iterate iterable actions.
